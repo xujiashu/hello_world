@@ -1,0 +1,19 @@
+q@DESKTOP-0T0U4KC MINGW64 /
+$ cd e:/hello_world
+
+q@DESKTOP-0T0U4KC MINGW64 /e/hello_world (master)
+$ git branch div
+
+q@DESKTOP-0T0U4KC MINGW64 /e/hello_world (master)
+$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+nothing to commit, working tree clean
+
+q@DESKTOP-0T0U4KC MINGW64 /e/hello_world (master)
+$ git checkout div
+Switched to branch 'div'
+
+q@DESKTOP-0T0U4KC MINGW64 /e/hello_world (div)
+$
+
